@@ -34,10 +34,10 @@ export function PrivacyPolicy() {
 
         <h3 style={{ color: 'var(--text-primary)', marginTop: '2rem', marginBottom: '1rem' }}>5. Contact Us</h3>
         <p style={{ marginBottom: '1.5rem' }}>
-          If you have any questions about this privacy policy or our privacy practices, please contact us at: <br/><br/>
-          <strong>TechnoCrafts IT Solution</strong> <br/>
-          Email: hello@technocrafts.com <br/>
-          Phone: +1 (555) 123-4567
+          If you have any questions about this privacy policy or our privacy practices, please contact us at: <br /><br />
+          <strong>TechnoCrafts IT Solution</strong> <br />
+          Email: technocraftsitsolution@gmail.com <br />
+          Phone: +91 9373052998
         </p>
       </section>
     </div>
