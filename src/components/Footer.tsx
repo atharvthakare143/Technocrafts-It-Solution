@@ -25,9 +25,9 @@ export function Footer() {
         <div>
           <h4>Contact Info</h4>
           <div className="footer-links" style={{ color: 'var(--text-secondary)', fontSize: '0.95rem' }}>
-            <p>Email: hello@technocrafts.com</p>
-            <p>Phone: +1 (555) 123-4567</p>
-            <p>Location: Tech District, Innovation City</p>
+            <p>Email: technocraftsitsolution@gmail.com</p>
+            <p>Phone: +91 9373052998</p>
+            <p>Location: Nashik, Maharashtra</p>
           </div>
         </div>
       </div>
